@@ -1,0 +1,1 @@
+https://functionalcs.github.io/curriculum/

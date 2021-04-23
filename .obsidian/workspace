@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "78dbb03ba2bfb0d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b0dd5b8d09616e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects/Polling System/Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8ed3da3330e80f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2730900e1d121992",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c3efefac0f94ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "346e60d1e1c81a74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282
+  },
+  "right": {
+    "id": "6b9bcb3a53935610",
+    "type": "split",
+    "children": [
+      {
+        "id": "300c29c9a4d4070c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a2a7b730ce7a702",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Polling System/Untitled.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2ee4f900ddf725a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a1e3ba3b6ff19a3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322,
+    "collapsed": true
+  },
+  "active": "8b0dd5b8d09616e6",
+  "lastOpenFiles": [
+    "Projects/Polling System/Untitled.md",
+    "Programming/Courses/Truffle suite and Dapp development.md",
+    "Programming/Blockchain/Fundamentals.md",
+    "Programming/Courses/Build your own Blockchain in Javascript.md",
+    "Programming/Courses/Learn Blockchain By Building Your Own in Javascript.md",
+    "Programming/Courses/Teeny Tiny Compiler.md",
+    "Programming/Courses/Blockchain In JS.md",
+    "Programming/Courses/Naivecoin.md",
+    "Programming/Courses/Predicting Viral Stocks on Reddit with Machine Learning.md",
+    "Programming/Courses/Poem Generator with GPT-2.md"
+  ]
+}
