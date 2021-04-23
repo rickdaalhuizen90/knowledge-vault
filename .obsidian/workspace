@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b0dd5b8d09616e6",
+        "id": "3cbd6ce596a36c9e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Projects/Polling System/Untitled.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Polling System/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "8b0dd5b8d09616e6",
+  "active": "3cbd6ce596a36c9e",
   "lastOpenFiles": [
     "Projects/Polling System/Untitled.md",
     "Programming/Courses/Truffle suite and Dapp development.md",
